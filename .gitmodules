@@ -1,0 +1,4 @@
+[submodule "lekaizen210/addons_3R"]
+	path = lekaizen210/addons_3R
+	url = git@github.com:lekaizen210/addons_3R.git
+	branch = main
